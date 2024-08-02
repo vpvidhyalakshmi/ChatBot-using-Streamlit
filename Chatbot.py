@@ -3,6 +3,7 @@ import random
 import time
 from streamlit_pills import pills
 
+# Set title for the application
 st.title("Simple Bot")
 
 # Streamed response emulator
@@ -37,7 +38,7 @@ st.session_state.suggestions_list = ["What is Streamlit?",
                     "What is the most famous quotes by Adam Smith"]
 
 st.session_state.icon = ["📚", "🤔", "👨","❓"]
-# source: https://emojipedia.org/light-bulb
+# source: https://emojipedia.org/
 
 # Flag to determine if selectbox should be shown
 show_selectbox = st.checkbox("Show prompt suggestions")

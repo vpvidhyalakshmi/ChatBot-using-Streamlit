@@ -26,6 +26,7 @@ Note: I used Python 3.12.3 to execute this application.
 1. Streamlit - https://streamlit.io
 2. Streamlit Documentation - https://docs.streamlit.io/
 3. Streamlit Pills - https://pypi.org/project/streamlit-pills/
+4. Icons - https://emojipedia.org/
 
 **Usage**
 
