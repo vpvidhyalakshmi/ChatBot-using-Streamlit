@@ -1,6 +1,7 @@
 # ChatBot Front-end using Python Streamlit
 
 **About**
+
 In my current role at CrowdDoing, I'm developing a front-end for a chatbot using Python. I have compiled a simple project based on my learnings from this work.
 
 **Project Description**
@@ -10,7 +11,6 @@ Chatbots are becoming essential for websites and applications, enhancing user en
 **Blog**
 
 To recreate the application step by step, be sure to check out [my blog](https://vpvidhyalakshmi.blogspot.com/2024/07/beginners-guide-building-chatbot-front.html).
-
 
 **How to run the application:**
 
@@ -23,8 +23,9 @@ Note: I used Python 3.12.3 to execute this application.
 
 **Resources**
 
-1. Streamlit - https://streamlit.io ; https://docs.streamlit.io/
-2. Streamlit Pills - https://pypi.org/project/streamlit-pills/
+1. Streamlit - https://streamlit.io
+2. Streamlit Documentation - https://docs.streamlit.io/
+3. Streamlit Pills - https://pypi.org/project/streamlit-pills/
 
 **Usage**
 
